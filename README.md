@@ -8,3 +8,5 @@ Now there is some additional comments to the readme file..
 and again file changed (directly within website)
 
 what is the difference from pull to fetch?
+
+hm...
